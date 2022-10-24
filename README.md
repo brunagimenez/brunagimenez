@@ -1,3 +1,7 @@
+<div align="center">
+  <a href="https://github.com/brunagimenez">
+  <img src="Photo/git.gif"/>
+</div>
 ### Hi, I'm Bruna! 👋
 
 - 🔭 I’m currently a student at Trybe
