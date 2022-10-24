@@ -8,8 +8,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunagimenez&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div align="left">
+    <img align="right" alt="Bruna-pic" height="200" style="border-radius:50px;"     src="https://cdn.dribbble.com/users/876183/screenshots/4178051/_______.gif">
     <h2>About me</h2>
-    <img align="right" alt="Bruna-pic" height="180" style="border-radius:50px;"     src="https://cdn.dribbble.com/users/876183/screenshots/4178051/_______.gif">
    - 🔭 I’m currently a student at Trybe</br>
   - 🌱 I’m currently learning 'Introduction to JavaScript'</br>
   - 📫 How to reach me: brunagimenez97@gmail.com</br>
