@@ -11,7 +11,7 @@
     <img align="right" alt="Bruna-pic" height="200" style="border-radius:50px;"     src="https://cdn.dribbble.com/users/876183/screenshots/4178051/_______.gif">
     <h2>About me</h2>
    - 🔭 I’m currently a student at Trybe</br>
-  - 🌱 I’m currently learning 'Introduction to JavaScript'</br>
+  - 🌱 Full Stack Developer</br>
   - 📫 How to reach me: brunagimenez97@gmail.com</br>
   - 😄 Pronouns: Ela/Dela - She/Hers</br>
   - ⚡ Fun fact: Before programming, I worked with Design.</br></br>
